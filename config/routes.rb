@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'account_activations/edit'
+
   get 'sessions/new'
 
   get 'sessions/new'
@@ -14,4 +16,5 @@ Rails.application.routes.draw do
   post    'login'   =>  'sessions#create'
   delete  'logout'  =>  'sessions#destroy'
   resources :users
+  resources :account_activations, only: [:edit]
 end
