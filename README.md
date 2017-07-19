@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial: Sample Application
 
-[Visit it here](https://damp-dawn-29391.herokuapp.com/)
+[Visit it here](https://pure-forest-51738.herokuapp.com/)
 
 This is the sample application for the
 [*Ruby on Rails Tutorial:
