@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial: Sample Application
 
+*Mailer has not been implemented yet.
+
 [Visit it here](https://pure-forest-51738.herokuapp.com/)
 
 This is the sample application for the
